@@ -1,0 +1,35 @@
+.search-wrapper {
+  margin: 20px;
+  width: 320px;
+  float: left;
+}
+
+.search-label {
+  margin-bottom: 5px;
+}
+
+.search-input svg,
+.search-input span {
+  display: none;
+}
+
+.results-wrapper {
+  margin-top: 10px;
+}
+
+.click-wrapper,
+.imp-wrapper,
+.results-wrapper span {
+  display: inline-block;
+}
+
+#click-val {
+  margin-right: 40px;
+}
+#click-val,
+#imp-val {
+  border: 1px solid #ececf1;
+  padding: 2px;
+  border-radius: 3px;
+  background-color: #f7f7f9;
+}

@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <HeaderComponent />
-      <SearchComponent />
+      <SearchComponent optionsList={dataList}  />
     </div>
   );
 }

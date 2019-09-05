@@ -1,0 +1,20 @@
+.logo-wrapper {
+  width: 100%;
+  background: #1d354c;
+}
+
+.main-desc {
+  width: 100%;
+  display: inline-block;
+  background: linear-gradient(180deg, #ffffff, #cbcbcb);
+  box-shadow: 0px 2px 0px #dddddd;
+}
+
+.main-desc h2 {
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.main-desc p {
+  margin-left: 10px;
+}
